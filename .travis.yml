@@ -6,4 +6,4 @@ python:
     - "3.5"
     - "3.6"
 
-script: python test_rpn.py
+script: python -m unittest test_rpn
