@@ -6,4 +6,4 @@ python:
     - "3.5"
     - "3.6"
 
-script: make test
+script: python test_rpn.py
